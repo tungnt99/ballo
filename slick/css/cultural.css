@@ -1,0 +1,167 @@
+a {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: #111111;
+}
+
+
+/* list_col_item */
+
+.post_thumbnail {
+    width: 100.156%;
+    height: 1290px;
+}
+
+.post_thumbnail img {
+    transition: 0.3s;
+}
+
+.post_thumbnail img:hover {
+    transform: scale(1.1);
+}
+
+.list_col_item {
+    border: 1px solid #e1e1e1;
+}
+
+.travel_guide_info {
+    display: flex;
+}
+
+.travel_guide_info_link {
+    width: 200px;
+    padding: 10px;
+}
+
+.wrap_img {
+    width: 180px;
+    height: 180px;
+    /* padding: 10px; */
+}
+
+.travel-guide-continents {
+    font-size: 20px;
+    font-family: photoshoot;
+    color: #111111;
+}
+
+.text_wrap_inner_title {
+    font-size: 26px;
+    max-width: 500px;
+    font-weight: 500;
+    margin-bottom: 13px;
+    line-height: 1.1;
+    font-family: EB_Garamond;
+}
+
+.text_wrap_inner_title a {
+    color: #111111;
+}
+
+
+/* POST ITEM */
+
+.item-post-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* margin-bottom: 80px; */
+    height: 695px;
+    padding-bottom: 80px;
+}
+
+.post-thumbnail {
+    width: 48.838%;
+    /* padding-right: 15px; */
+}
+
+.post-info {
+    width: calc(100% - 48.838%);
+}
+
+.img-wrap img {
+    width: 65.874%;
+}
+
+.post-title {
+    font-size: 32px;
+    line-height: 41.6px;
+    font-weight: 500;
+    font-family: EB_Garamond;
+    margin-top: -10px;
+    margin-bottom: 12px;
+}
+
+.post-meta-data {
+    line-height: 12px;
+    margin-bottom: 23px;
+}
+
+.desc {
+    /* text-align: justify; */
+    font-size: 14px;
+    font-family: Raleway;
+    color: #555555;
+    margin-bottom: 33px;
+    /* overflow: hidden; */
+    line-height: 1.715;
+}
+
+.button-submit {
+    font-size: 14px;
+    font-family: Raleway;
+    display: inline-block;
+    /* height: 55px; */
+    line-height: 55px;
+    padding: 0 30px;
+    border-radius: 0px;
+    background: #111111;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.button-submit:hover {
+    background-color: #fc9f65;
+}
+
+
+/* PAGE */
+
+.page-nav {
+    padding: 40px 0 125px 0;
+}
+
+.nav_page {
+    display: flex;
+    justify-content: center;
+}
+
+.nav_page_list {
+    /* display: inline-block; */
+    list-style: none;
+    margin: 0 4px;
+    border: 1px solid #e5e5e5;
+}
+
+.nav_page_list a {
+    width: fit-content;
+    padding: 0px 20px;
+    font-size: 12px;
+    font-family: Raleway;
+    color: #505159;
+    line-height: 50px;
+    display: inline-block;
+}
+
+.nav_page_list a:hover {
+    /* line-height: 50px; */
+    color: #fff;
+    background-color: #fc9f65;
+}
+
+.active {
+    color: #fff;
+    background-color: #fc9f65;
+}

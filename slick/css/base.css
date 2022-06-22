@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #333;
+    --primary-color: #EE4D2D;
+    --border-color: #dbdbdb;
+    --start-gold-color: #FFCE3E;
+    --milk-white-color: #F8F3F1;
+    --gray-color: #666;
+    --title14-font-size: 14px;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+html {
+    /* Hack */
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    /* font-family: 'Poppins', sans-serif; */
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: EB_Garamond;
+    src: url('../../slick/img/Ballo Travel/Font/EB_Garamond/EBGaramond-VariableFont_wght.ttf') format('truetype'), url('../fonts/Captureit.eot#iefix') format('embedded-opentype'), url('../../slick/img/Ballo Travel/Font/EB_Garamond/EBGaramond-VariableFont_wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url('../../slick/img/Ballo Travel/Font/Playfair_Display,Raleway/Raleway/Raleway-Regular.ttf') format('truetype'), url('../fonts/Captureit.eot#iefix') format('embedded-opentype'), url('../../slick/img/Ballo Travel/Font/EB_Garamond/EBGaramond-VariableFont_wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: Photoshoot;
+    src: url('../../slick/img/Ballo Travel/Font/photoshoot/Photoshoot.ttf') format('truetype'), url('../fonts/Captureit.eot#iefix') format('embedded-opentype'), url('../../slick/img/Ballo Travel/Font/EB_Garamond/EBGaramond-VariableFont_wght.ttf') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Responsive */
+
+
+/* footer */

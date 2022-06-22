@@ -1,0 +1,54 @@
+a {
+    text-decoration: none;
+    color: #111111;
+}
+
+.row {
+    margin: 0 6.5569%;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.list_col_item {
+    padding: 0 15px;
+}
+
+.item_travel_guide {
+    width: 408.987px;
+    border: 1px solid #e1e1e1;
+    /* height: 402.150px; */
+}
+
+.post_thumbnail {
+    width: 100%;
+    height: 263.350px;
+}
+
+.post_thumbnail img {
+    transition: 0.3s;
+}
+
+.post_thumbnail img:hover {
+    transform: scale(1.1);
+}
+
+.travel_guide_info {
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+}
+
+.wrap_img {
+    width: 86.54px;
+    height: 86.54px;
+    padding: 10px;
+}
+
+.text_wrap_inner_title {
+    font-size: 32px;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}

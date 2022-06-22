@@ -1,0 +1,838 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\1290-grid.jsx
+FileModTime:1582636296
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond.zip
+FileModTime:1583115838
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\photoshoot.zip
+FileModTime:1582633853
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway.zip
+FileModTime:1582634190
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\OFL.txt
+FileModTime:1346950800
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Black
+FamilyName:Raleway
+StyleName:Black
+FullName:Raleway Black
+MenuName:Raleway Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:175308
+FileModTime:1346950800
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway Black
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-BlackItalic
+FamilyName:Raleway
+StyleName:Black Italic
+FullName:Raleway Black Italic
+MenuName:Raleway Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:143092
+FileModTime:1346950800
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Raleway Black
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Bold
+FamilyName:Raleway
+StyleName:Bold
+FullName:Raleway Bold
+MenuName:Raleway
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:173756
+FileModTime:1346950800
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-BoldItalic
+FamilyName:Raleway
+StyleName:Bold Italic
+FullName:Raleway Bold Italic
+MenuName:Raleway
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:142788
+FileModTime:1346950800
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ExtraBold
+FamilyName:Raleway
+StyleName:ExtraBold
+FullName:Raleway ExtraBold
+MenuName:Raleway ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:172704
+FileModTime:1346950800
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway ExtraBold
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ExtraBoldItalic
+FamilyName:Raleway
+StyleName:ExtraBold Italic
+FullName:Raleway ExtraBold Italic
+MenuName:Raleway ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:142688
+FileModTime:1346950800
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Raleway ExtraBold
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ExtraLight
+FamilyName:Raleway
+StyleName:ExtraLight
+FullName:Raleway ExtraLight
+MenuName:Raleway ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:170924
+FileModTime:1346950800
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway ExtraLight
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ExtraLightItalic
+FamilyName:Raleway
+StyleName:ExtraLight Italic
+FullName:Raleway ExtraLight Italic
+MenuName:Raleway ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:136700
+FileModTime:1346950800
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Raleway ExtraLight
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Italic
+FamilyName:Raleway
+StyleName:Italic
+FullName:Raleway Italic
+MenuName:Raleway
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:140520
+FileModTime:1346950800
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Light
+FamilyName:Raleway
+StyleName:Light
+FullName:Raleway Light
+MenuName:Raleway Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:176904
+FileModTime:1346950800
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway Light
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-LightItalic
+FamilyName:Raleway
+StyleName:Light Italic
+FullName:Raleway Light Italic
+MenuName:Raleway Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:142948
+FileModTime:1346950800
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Raleway Light
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Medium
+FamilyName:Raleway
+StyleName:Medium
+FullName:Raleway Medium
+MenuName:Raleway Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:174028
+FileModTime:1346950800
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway Medium
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-MediumItalic
+FamilyName:Raleway
+StyleName:Medium Italic
+FullName:Raleway Medium Italic
+MenuName:Raleway Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:142248
+FileModTime:1346950800
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Raleway Medium
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Regular
+FamilyName:Raleway
+StyleName:Regular
+FullName:Raleway
+MenuName:Raleway
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:172992
+FileModTime:1346950800
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-SemiBold
+FamilyName:Raleway
+StyleName:SemiBold
+FullName:Raleway SemiBold
+MenuName:Raleway SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:175040
+FileModTime:1346950800
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway SemiBold
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-SemiBoldItalic
+FamilyName:Raleway
+StyleName:SemiBold Italic
+FullName:Raleway SemiBold Italic
+MenuName:Raleway SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:141164
+FileModTime:1346950800
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Raleway SemiBold
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-Thin
+FamilyName:Raleway
+StyleName:Thin
+FullName:Raleway Thin
+MenuName:Raleway Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:172100
+FileModTime:1346950800
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Raleway Thin
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Raleway-ThinItalic
+FamilyName:Raleway
+StyleName:Thin Italic
+FullName:Raleway Thin Italic
+MenuName:Raleway Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Raleway\Raleway-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:136428
+FileModTime:1346950800
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Raleway Thin
+NameArray:0,Win,16,Raleway
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Playfair_Display\OFL.txt
+FileModTime:1321376400
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Italic
+FamilyName:Playfair Display
+StyleName:Italic
+FullName:Playfair Display Italic
+MenuName:Playfair Display
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Playfair_Display\PlayfairDisplay-Italic-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:324344
+FileModTime:1321376400
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:PlayfairDisplay-Regular
+FamilyName:Playfair Display
+StyleName:Regular
+FullName:Playfair Display Regular
+MenuName:Playfair Display
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Playfair_Display\PlayfairDisplay-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:340520
+FileModTime:1321376400
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Playfair Display
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\Playfair_Display,Raleway\Playfair_Display\README
+FileModTime:1582580192
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Photoshoot-Regular
+FamilyName:Photoshoot
+StyleName:Regular
+FullName:Photoshoot Regular
+MenuName:Photoshoot
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\photoshoot\Photoshoot.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:25208
+FileModTime:1581307243
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Photoshoot Regular
+NameArray:0,Win,1,Photoshoot
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Photoshoot-Regular
+FamilyName:Photoshoot
+StyleName:Regular
+FullName:Photoshoot Regular
+MenuName:Photoshoot
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\photoshoot\Photoshoot.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55776
+FileModTime:1581307232
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Photoshoot Regular
+NameArray:0,Win,1,Photoshoot
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-Italic
+FamilyName:EB Garamond
+StyleName:Italic
+FullName:EB Garamond Italic
+MenuName:EB Garamond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\EBGaramond-Italic-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:829752
+FileModTime:1300813200
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-Regular
+FamilyName:EB Garamond
+StyleName:Regular
+FullName:EB Garamond Regular
+MenuName:EB Garamond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\EBGaramond-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:897728
+FileModTime:1300813200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\OFL.txt
+FileModTime:1300813200
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\README
+FileModTime:1583061842
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-Bold
+FamilyName:EB Garamond
+StyleName:Bold
+FullName:EB Garamond Bold
+MenuName:EB Garamond
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:601320
+FileModTime:1300813200
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-BoldItalic
+FamilyName:EB Garamond
+StyleName:Bold Italic
+FullName:EB Garamond Bold Italic
+MenuName:EB Garamond
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:567292
+FileModTime:1300813200
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-ExtraBold
+FamilyName:EB Garamond
+StyleName:ExtraBold
+FullName:EB Garamond ExtraBold
+MenuName:EB Garamond ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:600936
+FileModTime:1300813200
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,EB Garamond ExtraBold
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-ExtraBoldItalic
+FamilyName:EB Garamond
+StyleName:ExtraBold Italic
+FullName:EB Garamond ExtraBold Italic
+MenuName:EB Garamond ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:566920
+FileModTime:1300813200
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,EB Garamond ExtraBold
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-Italic
+FamilyName:EB Garamond
+StyleName:Italic
+FullName:EB Garamond Italic
+MenuName:EB Garamond
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:564280
+FileModTime:1300813200
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-Medium
+FamilyName:EB Garamond
+StyleName:Medium
+FullName:EB Garamond Medium
+MenuName:EB Garamond Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:601416
+FileModTime:1300813200
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,EB Garamond Medium
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-MediumItalic
+FamilyName:EB Garamond
+StyleName:Medium Italic
+FullName:EB Garamond Medium Italic
+MenuName:EB Garamond Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:566860
+FileModTime:1300813200
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,EB Garamond Medium
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-Regular
+FamilyName:EB Garamond
+StyleName:Regular
+FullName:EB Garamond Regular
+MenuName:EB Garamond
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:599076
+FileModTime:1300813200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-SemiBold
+FamilyName:EB Garamond
+StyleName:SemiBold
+FullName:EB Garamond SemiBold
+MenuName:EB Garamond SemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-SemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:601652
+FileModTime:1300813200
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,EB Garamond SemiBold
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-SemiBoldItalic
+FamilyName:EB Garamond
+StyleName:SemiBold Italic
+FullName:EB Garamond SemiBold Italic
+MenuName:EB Garamond SemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:G:\MY-Theme\01_Ballo Travel\Font\EB_Garamond\static\EBGaramond-SemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:567512
+FileModTime:1300813200
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,EB Garamond SemiBold
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
